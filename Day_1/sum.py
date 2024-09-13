@@ -19,8 +19,12 @@ if count > 0:
 else:
     print("No odd number found")
   
-# Using list
 
+
+
+
+
+# Using list 
 
 list = [1,2,3,4]
 
